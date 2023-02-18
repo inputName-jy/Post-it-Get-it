@@ -4,6 +4,9 @@
   ## Description
   This is a note taking application that allows the user to create, save, and delete notes. The user can also view previously saved notes. This application uses an express backend and saves and retrieves note data from a JSON file.
 
+  ## Preview
+  ![This is an image](/assets/screenshot.png)
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
