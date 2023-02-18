@@ -20,7 +20,7 @@
 
   ## Usage
   
-  Here is a link to the deployed application: 
+  Here is a link to the deployed application: https://post-it-get-it.herokuapp.com/notes
   
   To use this, type in the terminal: 'npm start' and then go to your browser and type in 'localhost:3000' to view the application.
 
